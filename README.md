@@ -3,6 +3,8 @@
 This is a simple code to perform basic checks on the GEM 2024 shared task submission files (file name, format, etc.).
 
 Steps:
+
+First, clik on "GEM24_checkOutputs.ipynb" above, and then on "Open in Colab"; once the notebook is open:
 - 1: Run first cell.
 - 2: Drag and drop your uncompressed files in the "out" folder (you may need to press the "Files" and then the "Refresh" button on the left panel to see the folder on your Colab Files explorer).
 - 3: Run the last cell.
